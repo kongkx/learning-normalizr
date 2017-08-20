@@ -8,8 +8,8 @@
   - `Entity(key, definition = {}, options= {})`
   - `Object(definition)`
   - `Union(definition, schemaAttribute)`
-  - `Values(definition, schemaAttribute)`
-- `denormalize(input, schema, entities)` — Describes a map whose values follow the given schema.
+  - `Values(definition, schemaAttribute)` — Describes a map whose values follow the given schema.
+- `denormalize(input, schema, entities)`
 
 
 
